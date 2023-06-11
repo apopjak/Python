@@ -1,61 +1,66 @@
-# Python Project Showcase
-***
-This repository contains various Python projects created using different frameworks and libraries. Each project serves a different purpose and demonstrates different aspects of Python programming. Below is a brief description of each project:
+# My Projects
 
-### 1. QuizGame (Tkinter)
+This repository contains a collection of my coding projects. Each project focuses on different areas of development and showcases my skills in various technologies and frameworks.
 
-   A simple quiz game built using Tkinter, a Python GUI toolkit. Test your knowledge with multiple-choice questions.
+## Projects
 
-![image1.png](10.QuizzGame_GUI_API%2Fimage1.png)
-### 2. Amazon Price Checker (BeautifulSoup)
+### 1. QuizzGame
 
-   This project utilizes Python and BeautifulSoup library to scrape the Amazon website and check the prices of specific products. Stay updated with the latest prices!
+A fun and interactive quiz game that tests your knowledge across various topics. It provides an engaging experience with multiple-choice questions and real-time scoring.
 
-### 3. Twitter Complaint Bot (Selenium)
+### 2. Turtle Game in Tkinter
 
-   Using Python and Selenium, this project automates the process of submitting complaints on Twitter. Express your concerns effortlessly.
+Explore the world of graphics programming by creating a captivating game using the Turtle module in Tkinter. Users can control a turtle character and navigate through exciting challenges.
 
-### 4. Address Web Scraping (Selenium)
+![images/img_1.png](images/img_1.png)
 
-   Utilizing Python and Selenium, this project scrapes addresses from web pages. Extract valuable information efficiently.
+### 3. Snake Game in Tkinter
 
-### 5. Quiz-Game
+Relive the classic arcade game nostalgia with a modern twist as you play the iconic Snake game built using Tkinter. Maneuver through obstacles and try to achieve the highest score.
 
-   Another quiz game project, built to test your knowledge. Challenge yourself with a variety of questions.
+![images/img_3.png](images/img_3.png)
 
-### 6. Turtle (Tkinter)
+### 4. FlashCard in Tkinter
 
-   Explore the graphics capabilities of Python with this Turtle project. Create stunning visuals and drawings using the Turtle module.
-    
-![image.png](3.Turtle%20-%20TKinker%2Fimage.png)
-### 7. Snake (Tkinter)
+Enhance your learning experience with this interactive flashcard app built using Tkinter. Create, study, and review customized flashcards for efficient knowledge retention.
 
-   Enjoy the classic Snake game implemented using Tkinter. Control the snake and try to eat as much food as possible without hitting the walls or yourself.
+![images/img_4.png](images/img_4.png)
 
+### 5. Password Manager in Tkinter
 
-![image.png](4.Snake%20-%20Tkinker%2Fimage.png)
+Keep your passwords secure and easily accessible with this Tkinter-based password manager. Store and retrieve your credentials while maintaining strong encryption.
 
-    
-### 8. Flashcards (Tkinter)
+![images/img_5.png](images/img_5.png)
 
-   This project demonstrates a flashcard application built with Tkinter. Study and memorize information effectively using digital flashcards.
-    
+### 6. API ISS Over Your Head
 
-![image1.png](5.%20FlashCard%20-%20Tkinker%2Fimage1.png)
-![img.png](img.png)
-### 9. Password Manager (Tkinter)
+Get notified by email when the International Space Station (ISS) passes over your location in the evening. This project utilizes an API to track the ISS's position and sends automated alerts.
 
-   Securely store and manage your passwords with this password manager built using Tkinter. Safeguard your sensitive information.
+### 7. Weather Notifier
 
-### 10. API ISS Overhead Email Sender
+Receive timely weather updates via email in the morning. This project alerts you if rain is forecasted during the day, helping you stay prepared for changing weather conditions.
 
-This project utilizes an API to determine the International Space Station's current position and sends an email notification when it is overhead your location.
+### 8. Stock Market Email/SMS Notifier
 
-### 11. Weather Email Notifier
+Stay informed about stock market fluctuations with this notification system. It sends emails or SMS alerts when a stock's price changes by 5 percent, enabling you to make informed investment decisions.
 
-Stay updated with the weather conditions using this project. It sends email notifications with the latest weather information for a specified location.
+### 9. QuizzGame (API version)
 
-### 12. Stock Market SMS Notifier
+Enjoy an API-powered version of the QuizzGame. It offers a wide range of dynamically generated questions to challenge your knowledge across various categories.
 
-Get real-time stock market updates via SMS using this project. Stay informed about your favorite stocks with automatic notifications.
+![img_6.png](img_6.png)
+
+### 10. Beautiful Soup Web Scraping Bot
+
+Automate the process of checking Amazon prices using a web scraping bot built with Beautiful Soup. Monitor product prices and make informed purchasing decisions.
+
+### 11. Selenium Twitter Bot
+
+Take control of your internet speed by automatically tweeting your provider through this Selenium-powered bot whenever your internet connection slows down. Ensure timely support.
+
+### 12. Selenium Google Forms Address Scraper
+
+Simplify your rental property search with this Selenium bot. It scans rental websites for properties that meet your specified criteria, creates Google Forms with addresses, links, and prices, and centralizes all the information in one place.
+
+Feel free to explore each project folder for more detailed information and instructions on how to run them.
 
